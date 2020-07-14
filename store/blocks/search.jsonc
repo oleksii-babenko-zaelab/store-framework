@@ -25,6 +25,13 @@
           "flex-layout.col#search"
         ]
       },
+    "flex-layout.col#filter": {
+        "props": {
+            "width": "20%"
+        }
+    },
+    "flex-layout.col#search": {
+    },
 	"flex-layout.row#top": {
       "children": [
         "total-products.v2",
