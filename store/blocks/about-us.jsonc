@@ -53,7 +53,7 @@
  "tab-list.item#home1": {
    "props": {
      "tabId": "majorAppliances",
-     "text": "About",
+     "label": "About",
      "defaultActiveTab": true
    }
  },
