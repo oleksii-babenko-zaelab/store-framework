@@ -18,7 +18,7 @@
         "itemProps": {
           "text": "Major Aplliances"
         },
-        "blocks": [
+        "children": [
             "vtex.menu@2.x:submenu#major"
         ]
       }
@@ -32,8 +32,8 @@
           "categoryId": 2,
           "text": "Small Appliances"
         },
-        "blocks": [
-          "vtex.menu@2.x:submenu#major"
+        "children": [
+          "vtex.menu@2.x:submenu#small"
         ]
       }
     },
@@ -46,7 +46,7 @@
           "categoryId": 3,
           "text": "Electronics"
         },
-        "blocks": [
+        "children": [
           "vtex.menu@2.x:submenu#electronics"
         ]
       }
