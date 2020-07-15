@@ -8,7 +8,7 @@
           }
         }/*,
         "blocks": [
-          "flex-layout.row#major"
+          "flex-layout.row#major" asd
         ]*/
       },
       "menu-item#small-appliances": {
