@@ -6,10 +6,10 @@
           "itemProps": {
             "text": "Major Appliances"
           }
-        }/*,
+        },
         "blocks": [
-          "flex-layout.row#major" asd
-        ]*/
+          "vtex.menu@2.x:submenu#major"
+        ]
       },
       "menu-item#small-appliances": {
         "props": {
